@@ -6,4 +6,4 @@
 
 该项目使用 CC BY-SA 4.0 协议（GitHub 为方便上传使用 MIT 许可证），请根据协议合理使用。
 
-如有问题请在 [GitHub](https://github.com/martin-cao/english-in-mind-book-4-wordlist/issues/new) 提交 Issue 或者到 [EIM 4 English Definition - Martin's Blog]([English in Mind Student&#8217;s Book 4 English Definition &#8211; Martin&#039;s Blog](https://weblogcomm.ltd/index.php/eim-4-ed/)) 评论。
+如有问题请 [提交 Issue](https://github.com/martin-cao/english-in-mind-book-4-wordlist/issues/new) 或者到 [EIM 4 English Definition - Martin's Blog]([English in Mind Student&#8217;s Book 4 English Definition &#8211; Martin&#039;s Blog](https://weblogcomm.ltd/index.php/eim-4-ed/)) 评论。
